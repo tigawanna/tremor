@@ -4,5 +4,3 @@ export { default as TableCell } from "./TableCell";
 export { default as TableHead } from "./TableHead";
 export { default as TableHeaderCell } from "./TableHeaderCell";
 export { default as TableRow } from "./TableRow";
-export { default as TableFoot } from "./TableFoot";
-export { default as TableFooterCell } from "./TableFooterCell";

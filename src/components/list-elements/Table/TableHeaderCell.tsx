@@ -1,6 +1,7 @@
 import React from "react";
-import { tremorTwMerge, makeClassName, spacing } from "lib";
+import { tremorTwMerge } from "lib";
 
+import { makeClassName, spacing } from "lib";
 const makeTableHeaderCellClassName = makeClassName("TableHeaderCell");
 
 const TableHeaderCell = React.forwardRef<
